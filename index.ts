@@ -1,4 +1,4 @@
-import { scanEndpoint} from "./scanendpoints;
+import { scanEndpoint} from "./scanendpoints";
 
 
 const baseUrl = process.argv[2];
