@@ -1,4 +1,4 @@
-# api-helper
+# Endpoint finder!
 
 To install dependencies:
 
